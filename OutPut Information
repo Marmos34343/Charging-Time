@@ -1,0 +1,23 @@
+The purpose of creating an OutPut is to give the user the possibility to use the information in some other shortcut or accessory, for example: If someone has a smart plug, they can turn on the power and charge the device or turn off the device automatically.
+
+An example of OutPut:
+
+    {
+      "dispositivoCargandose":true,
+      "dispositivoDescargandose":false,
+      "esperarParaEliminarNotificaciones":false,
+      "minutosRestantesHasta80":15.3,
+      "minutosRestantesHasta100":88.4,
+      "minutosMaximosHasta80":27.4,
+      "minutosMaximoHasta100":171.4,
+      "bateriaActual":61
+   }
+   
+dispositivoCargandose: Indicates if the device is charging or not, if the device is connected to energy and is at 100% battery this value will be "false".
+dispositivoDescargandose: Indicates if the device is discharging or not.
+esperarParaEliminarNotificaciones: If "true" it is because the shortcut will remove the notifications that were launched on 2 seconds with the exception of update notifications.
+minutosRestantesHasta80: It is the time in minutes remaining to reach 80%.
+minutosRestantesHasta100: It is the remaining time only from 80 to 100%.
+minutosMaximosHasta80: It is the maximum time required to reach 80%
+minutosMaximoHasta100: It is the maximum time required to reach 100% from 80% charge.
+bateriaActual: Current battery level.
