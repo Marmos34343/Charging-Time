@@ -1,6 +1,9 @@
-{"ultimaVersion":1.5,"URL":"https://www.icloud.com/shortcuts/164755856877445cb02b4298bb66f222"}
+{"ultimaVersion":1.6,"URL":"https://www.icloud.com/shortcuts/5f92bb37ff774b2abc2670ad665ae5ba"}
 
-Notes V.1.5 :
+Notes V.1.6:
+• The shortcut was not removing some notifications has been fixed.
+
+Notes V.1.5:
 • Bugs fixes
 • Fixes error searching updates.
 • Now you can manually check for updates, you must run the shortcut 2 times in less than 15 seconds and select "Search updates"
