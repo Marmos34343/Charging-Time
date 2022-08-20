@@ -1,7 +1,7 @@
-{"ultimaVersion":1.5,"URL":"https://www.icloud.com/shortcuts/80590f0c0150454998d19dea80c4e264"}
+{"ultimaVersion":1.5,"URL":"https://www.icloud.com/shortcuts/164755856877445cb02b4298bb66f222"}
 
 Notes V.1.5 :
 • Bugs fixes
 • Fixes error searching updates.
-• Now you can manually check for updates, you can run the shortcut 2 times in less than 15 seconds.
+• Now you can manually check for updates, you must run the shortcut 2 times in less than 15 seconds and select "Search updates"
 • The output has been configured with a json with information on battery charge times, this if you want to use this information on another shortcut or device. More information on https://github.com/Marmos34343/Charging-Time/blob/main/OutPut%20Information
