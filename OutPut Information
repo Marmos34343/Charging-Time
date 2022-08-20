@@ -18,6 +18,6 @@ dispositivoDescargandose: Indicates if the device is discharging or not.
 esperarParaEliminarNotificaciones: If "true" it is because the shortcut will remove the notifications that were launched on 2 seconds with the exception of update notifications.
 minutosRestantesHasta80: It is the time in minutes remaining to reach 80%.
 minutosRestantesHasta100: It is the remaining time only from 80 to 100%.
-minutosMaximosHasta80: It is the maximum time required to reach 80%
+minutosMaximosHasta80: It is the maximum time required to reach 80%.
 minutosMaximoHasta100: It is the maximum time required to reach 100% from 80% charge.
 bateriaActual: Current battery level.
