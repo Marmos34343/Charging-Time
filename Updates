@@ -4,7 +4,7 @@ Notes V.1.6:
 • The shortcut was not removing some notifications has been fixed.
 
 Notes V.1.5:
-• Bugs fixes
+• Bugs fixes.
 • Fixes error searching updates.
-• Now you can manually check for updates, you must run the shortcut 2 times in less than 15 seconds and select "Search updates"
+• Now you can manually check for updates, you must run the shortcut 2 times in less than 15 seconds and select "Search updates".
 • The output has been configured with a json with information on battery charge times, this if you want to use this information on another shortcut or device. More information on https://github.com/Marmos34343/Charging-Time/blob/main/OutPut%20Information
