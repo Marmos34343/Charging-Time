@@ -1,4 +1,8 @@
-{"ultimaVersion":1.6,"URL":"https://www.icloud.com/shortcuts/5f92bb37ff774b2abc2670ad665ae5ba"}
+{"ultimaVersion":1.7,"URL":"https://www.icloud.com/shortcuts/103db4de307142b79bdbb2c4de00be0f"}
+
+Notes V.1.7:
+• Fixes "Could Not Run Run Inline Script. Script Complete without presenting UI..." error.
+• The title of a notification was displayed in Spanish (new users).
 
 Notes V.1.6:
 • The shortcut was not removing some notifications has been fixed.
