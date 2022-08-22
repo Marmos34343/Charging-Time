@@ -1,7 +1,7 @@
 {"ultimaVersion":1.7,"URL":"https://www.icloud.com/shortcuts/103db4de307142b79bdbb2c4de00be0f"}
 
 Notes V.1.7:
-• Fixes "Could Not Run Run Inline Script. Script Complete without presenting UI..." error.
+• Fixes "Could Not Run Run Inline Script. Script Completed without presenting UI..." error.
 • The title of a notification was displayed in Spanish (new users).
 
 Notes V.1.6:
