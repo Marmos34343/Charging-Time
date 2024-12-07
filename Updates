@@ -1,5 +1,10 @@
-{"ultimaVersion":2.2,"URL":"https://www.icloud.com/shortcuts/00f3623afd0f4bfeba721a2342436f47"}
+{"ultimaVersion":2.3,"URL":"https://www.icloud.com/shortcuts/8a71691591914620a0313350aba7baa6"}
 
+
+Version V.2.3:
+* Bug fixed that caused an error with "entrada.trim" when executed manually.
+* If you liked this shortcut please consider donating on https://ko-fi.com/marmos 😊
+* Run twice in less 15 seconds to access to menu.
 
 Version V.2.2:
 * Fixes error that did not show predictions with a percentage level less than 65.
